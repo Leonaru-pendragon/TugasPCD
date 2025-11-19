@@ -1,5 +1,5 @@
 # TugasPCD
-Cara Menjalankan Source Code TugasPCD2.ipynb
+Cara Menjalankan Source Code
 1. Menjalankan di Google Colab
 Langkah-langkah
 
